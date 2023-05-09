@@ -1,6 +1,7 @@
 # Face Detection App
 - A simple login, register page
 - API fetch from Clarifai
+- Local Server using node.js
 
 ## Update
 Unfortunately Heroku is not free anymore - good for them - which is why the project is not deployed, and you would have to run the node.js server by yourself to test the code.
