@@ -61,7 +61,7 @@ class App extends Component {
   };
 
 
-  setUpAI = (imageURL) => {
+  setUpAI = (imageURL) => { 
 
     // Your PAT (Personal Access Token) can be found in the portal under Authentification
     const PAT = 'add your PAT';
