@@ -64,11 +64,9 @@ class App extends Component {
   setUpAI = (imageURL) => {
 
     // Your PAT (Personal Access Token) can be found in the portal under Authentification
-    const PAT = '36d67a7983a947fe988b85807dcf60a0';
-    // Specify the correct user_id/app_id pairings
-    // Since you're making inferences outside your app's scope
-    const USER_ID = 'patografx';
-    const APP_ID = 'my-first-application';
+    const PAT = 'add your PAT';
+    const USER_ID = 'add your USER-ID';
+    const APP_ID = 'add your APP_ID';
     // Change these to whatever model and image URL you want to use
     const MODEL_ID = 'face-detection';
     const MODEL_VERSION_ID = '6dc7e46bc9124c5c8824be4822abe105';
